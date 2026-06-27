@@ -1,5 +1,18 @@
 * Episode 1 Introduction
+[[https://youtu.be/1G7PbX_Z-64]]
+
+Just a quick demo for how to create the bare minimum http server in Zig using the standard library. 
 
 * Episode 2 Scaling 
+[[https://youtu.be/WJNF6qwzFcQ]]
+
+In this episode we optimize a minimal zig http server to handle thousands of  concurrent connections without imploding, while testing it using Apache Bench
 
 * Episode 3 Loris protection and simple routing
+[[https://youtu.be/6hxOXEoPyI0]]
+
+In this video we look at mitigating simple slow loris and traffic based DOS attack for our customer http server written in zig. 
+
+I also demo a very minimal callback based router.
+
+*Disclaimer*: this video is only educational do not DOS people.
