@@ -11,7 +11,7 @@ In this episode we optimize a minimal zig http server to handle thousands of  co
 * Episode 3 Loris protection and simple routing
 [[https://youtu.be/6hxOXEoPyI0]]
 
-In this video we look at mitigating simple slow loris and traffic based DOS attack for our customer http server written in zig. 
+In this video we look at mitigating simple slow loris and traffic based DOS attack for our custom http server written in zig. 
 
 I also demo a very minimal callback based router.
 
